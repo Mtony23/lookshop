@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Impact";
+    src: url("../fonts/Impact.woff");   
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ArialMT";
+    src: url("../fonts/ArialMT.woff");   
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("../fonts/HelveticaNeue.woff");   
+    font-style: normal;
+}
